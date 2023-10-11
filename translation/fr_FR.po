@@ -1,0 +1,1263 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+
+
+msgid "View all results"
+msgstr "Voir tous les résultats"
+
+
+msgid "No results"
+msgstr "Pas de résultats"
+
+
+msgid "Home"
+msgstr "Accueil"
+
+
+msgid "CLOSE"
+msgstr "FERMER"
+
+
+msgid "Page"
+msgstr "Page"
+
+
+msgid "All"
+msgstr "Tous"
+
+
+msgid "By"
+msgstr "Par"
+
+
+msgid "Load more"
+msgstr "Voir plus"
+
+
+msgid "View all posts in"
+msgstr "Voir tous les articles dans"
+
+
+msgid "Tags"
+msgstr "Tags"
+
+
+msgid "Previous article"
+msgstr "Article précédent"
+
+
+msgid "Next article"
+msgstr "Article suivant"
+
+
+msgid "Authors"
+msgstr "Auteurs"
+
+
+msgid "Author"
+msgstr "Auteur"
+
+
+msgid "RELATED ARTICLES"
+msgstr "ARTICLES CONNEXES"
+
+
+msgid "MORE FROM AUTHOR"
+msgstr "PLUS DE L'AUTEUR"
+
+
+msgid "VIA"
+msgstr "Via"
+
+
+msgid "SOURCE"
+msgstr "Source"
+
+
+msgid "TAGS"
+msgstr "TAGS"
+
+
+msgid "SHARE"
+msgstr "PARTAGER"
+
+
+msgid "Continue"
+msgstr "Continuer"
+
+
+msgid "Read more"
+msgstr "Lire la suite"
+
+
+msgid "Name:"
+msgstr "Nom :"
+
+
+msgid "Email:"
+msgstr "Email :"
+
+
+msgid "Website:"
+msgstr "Site :"
+
+
+msgid "Comment:"
+msgstr "Commenter :"
+
+
+msgid "LEAVE A REPLY"
+msgstr "LAISSER UN COMMENTAIRE"
+
+
+msgid "Post Comment"
+msgstr "Poster un commentaire"
+
+
+msgid "Cancel reply"
+msgstr "Annuler la réponse"
+
+
+msgid "Reply"
+msgstr "Répondre"
+
+
+msgid "Log in to leave a comment"
+msgstr "Connecter pour laisser un commentaire"
+
+
+msgid "NO COMMENTS"
+msgstr "AUCUN COMMENTAIRE"
+
+
+msgid "1 COMMENT"
+msgstr "1 COMMENTAIRE"
+
+
+msgid "COMMENTS"
+msgstr "Commentaires"
+
+
+msgid "REVIEW OVERVIEW"
+msgstr "NOS NOTES ..."
+
+
+msgid "SUMMARY"
+msgstr "RÉSUMÉ"
+
+
+msgid "OVERALL SCORE"
+msgstr "SCORE GLOBAL"
+
+
+msgid "Ooops... Error 404"
+msgstr "Oups ... Erreur 404"
+
+
+msgid "Sorry, but the page you are looking for doesn't exist."
+msgstr "Désolé, mais la page que vous recherchez n'existe pas."
+
+
+msgid "You can go to the"
+msgstr "Vous pouvez aller à"
+
+
+msgid "HOMEPAGE"
+msgstr "PAGE D'ACCUEIL"
+
+
+msgid "OUR LATEST POSTS"
+msgstr "NOS DERNIERS ARTICLES"
+
+
+msgid "Posts by"
+msgstr "Articles postés par"
+
+
+msgid "POSTS"
+msgstr "ARTICLES"
+
+
+msgid "Posts tagged with"
+msgstr "Articles taggés"
+
+
+msgid "Tag"
+msgstr "Tag"
+
+
+msgid "Daily Archives:"
+msgstr "Archives quotidiennes:"
+
+
+msgid "Monthly Archives:"
+msgstr "Archives mensuelles:"
+
+
+msgid "Yearly Archives:"
+msgstr "Archives annuelles:"
+
+
+msgid "Archives"
+msgstr "Archives"
+
+
+msgid "LATEST ARTICLES"
+msgstr "Derniers articles"
+
+
+msgid "search results"
+msgstr "résultats de la recherche"
+
+
+msgid "Search"
+msgstr "Recherche"
+
+
+msgid "If you're not happy with the results, please do another search"
+msgstr "Si les résultats ne sont pas satisfaisants, veuillez effectuer une autre recherche"
+
+
+msgid "Contact us"
+msgstr "Contactez-nous"
+
+
+msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+msgstr "Page %CURRENT_PAGE% sur %TOTAL_PAGES%"
+
+
+msgid "Next"
+msgstr "Suivant"
+
+
+msgid "Prev"
+msgstr "Précédent"
+
+
+msgid "No results for your search"
+msgstr "Aucun résultat pour votre recherche"
+
+
+msgid "No posts to display"
+msgstr "Aucun article à afficher"
+
+
+msgid "LOG IN"
+msgstr "SE CONNECTER"
+
+
+msgid "Sign in / Join"
+msgstr "Connecter / rejoindre"
+
+
+msgid "Log In"
+msgstr "Se connecter"
+
+
+msgid "REGISTER"
+msgstr "ENREGISTRER"
+
+
+msgid "Send My Pass"
+msgstr "Envoyer mon mot de passe"
+
+
+msgid "Forgot your password?"
+msgstr "Mot de passe oublié ?"
+
+
+msgid "Please wait..."
+msgstr "S'il vous plaît patienter ..."
+
+
+msgid "User or password incorrect!"
+msgstr "Utilisateur ou mot de passe incorrect!"
+
+
+msgid "Email or username incorrect!"
+msgstr "E-mail ou nom d'utilisateur incorrect !"
+
+
+msgid "Email incorrect!"
+msgstr "Email incorrect !"
+
+
+msgid "User or email already exists!"
+msgstr "Utilisateur ou email existe déjà!"
+
+
+msgid "Please check you email (index or spam folder), the password was sent there."
+msgstr "Veuillez vérifier vos emails (boîte principale ou spam), votre mot de passe vous a été envoyé."
+
+
+msgid "Email address not found!"
+msgstr "Adresse email non trouvée !"
+
+
+msgid "Your password is reset, check your email."
+msgstr "Votre mot de passe a été réinitialisé, vérifiez vos emails."
+
+
+msgid "Welcome! Log into your account"
+msgstr "Bienvenue ! Connectez-vous à votre compte :"
+
+
+msgid "Register for an account"
+msgstr "Créer un compte"
+
+
+msgid "Recover your password"
+msgstr "Récupérer votre mot de passe"
+
+
+msgid "your username"
+msgstr "votre nom d'utilisateur"
+
+
+msgid "your password"
+msgstr "votre mot de passe"
+
+
+msgid "your email"
+msgstr "votre email"
+
+
+msgid "A password will be e-mailed to you."
+msgstr "Un mot de passe vous sera envoyé par email."
+
+
+msgid "Logout"
+msgstr "Déconnexion"
+
+
+msgid "Like"
+msgstr "J'aime"
+
+
+msgid "Fans"
+msgstr "Fans"
+
+
+msgid "Follow"
+msgstr "Suivre"
+
+
+msgid "Followers"
+msgstr "Suiveurs"
+
+
+msgid "Subscribe"
+msgstr "S'abonner"
+
+
+msgid "Subscribers"
+msgstr "Abonnés"
+
+
+msgid "MORE STORIES"
+msgstr "PLUS D'ARTICLES"
+
+
+msgid "Latest"
+msgstr "Dernier"
+
+
+msgid "Featured posts"
+msgstr "Les articles en vedette"
+
+
+msgid "Most popular"
+msgstr "Plus populaire"
+
+
+msgid "7 days popular"
+msgstr "7 jours populaire"
+
+
+msgid "By review score"
+msgstr "Les mieux notés"
+
+
+msgid "Random"
+msgstr "Au hasard"
+
+
+msgid "Trending Now"
+msgstr "A la une"
+
+
+msgid "POPULAR CATEGORY"
+msgstr "CATÉGORIE POPULAIRE"
+
+
+msgid "EVEN MORE NEWS"
+msgstr "ENCORE PLUS D'ARTICLES"
+
+
+msgid "Previous (Left arrow key)"
+msgstr "Précédente (flèche gauche)"
+
+
+msgid "Next (Right arrow key)"
+msgstr "Suivante (flèche droite)"
+
+
+msgid "%curr% of %total%"
+msgstr "%curr% sur %total%"
+
+
+msgid "The content from %url% could not be loaded."
+msgstr "Le contenu de %url% pas pu être chargé."
+
+
+msgid "The image #%curr% could not be loaded."
+msgstr "L'image #%curr% pas pu être chargée."
+
+
+msgid "Blog"
+msgstr "Blog"
+
+
+msgid "Share on Facebook"
+msgstr "Partager sur Facebook"
+
+
+msgid "Tweet on Twitter"
+msgstr "Tweeter sur twitter"
+
+
+msgid "EDITOR PICKS"
+msgstr "SÉLECTION DE L'EDITEUR"
+
+
+msgid "POPULAR POSTS"
+msgstr "ARTICLES POPULAIRES"
+
+
+msgid "FOLLOW US"
+msgstr "SUIVEZ NOUS"
+
+
+msgid "ABOUT US"
+msgstr "À PROPOS"
+
+
+msgid "More"
+msgstr "Plus"
+
+
+msgid "Featured"
+msgstr "En vedette"
+
+
+msgid "All time popular"
+msgstr "Tous les temps populaire"
+
+
+msgid "Likes"
+msgstr "J'aimes"
+
+
+msgid "Register"
+msgstr "Créer un compte"
+
+
+msgid "of"
+msgstr "de"
+
+
+msgid "Euro Member Countries"
+msgstr "Les pays membres de la zone euro"
+
+
+msgid "Your comment is awaiting moderation"
+msgstr "Votre commentaire est en attente de modération"
+
+
+msgid "Follow us on Instagram"
+msgstr "Suivez-nous sur instagram"
+
+
+msgid "Back"
+msgstr "Arrière"
+
+
+msgid "Sign in"
+msgstr "Se connecter"
+
+
+msgid "Sign up"
+msgstr "S'inscrire"
+
+
+msgid "Join"
+msgstr "Joindre"
+
+
+msgid "Welcome!"
+msgstr "Bienvenue!"
+
+
+msgid "Log into your account"
+msgstr "Connectez-vous à votre compte"
+
+
+msgid "Password recovery"
+msgstr "Récupération de mot de passe"
+
+
+msgid "Please check your email (index or spam folder), the password was sent there."
+msgstr "S'il vous plaît vérifier votre e-mail (dossier d'index ou spam), le mot de passe a été envoyé là-bas."
+
+
+msgid "Australian Dollar"
+msgstr "Dollar australien"
+
+
+msgid "Bulgarian Lev"
+msgstr "Lev bulgare"
+
+
+msgid "Brazilian Real"
+msgstr "Real brésilien"
+
+
+msgid "Canadian Dollar"
+msgstr "Dollar canadien"
+
+
+msgid "Swiss Franc"
+msgstr "Franc suisse"
+
+
+msgid "Chinese Yuan Renminbi"
+msgstr "Chinese yuan renminbi"
+
+
+msgid "Czech Republic Koruna"
+msgstr "République tchèque koruna"
+
+
+msgid "Danish Krone"
+msgstr "Couronne danoise"
+
+
+msgid "British Pound"
+msgstr "Livre sterling"
+
+
+msgid "Hong Kong Dollar"
+msgstr "Dollar de Hong Kong"
+
+
+msgid "Croatian Kuna"
+msgstr "Kuna croatian"
+
+
+msgid "Hungarian Forint"
+msgstr "Forint hongrois"
+
+
+msgid "Indonesian Rupiah"
+msgstr "Roupie indonésienne"
+
+
+msgid "Israeli Shekel"
+msgstr "Shekel israelien"
+
+
+msgid "Indian Rupee"
+msgstr "Roupie indienne"
+
+
+msgid "Japanese Yen"
+msgstr "Yen japonais"
+
+
+msgid "Korean (South) Won"
+msgstr "Korean (sud) won"
+
+
+msgid "Mexican Peso"
+msgstr "Peso mexicain"
+
+
+msgid "Malaysian Ringgit"
+msgstr "Ringgit malaisien"
+
+
+msgid "Norwegian Krone"
+msgstr "Couronne norvégienne"
+
+
+msgid "New Zealand Dollar"
+msgstr "Dollar néo-zélandais"
+
+
+msgid "Philippine Peso"
+msgstr "Peso philippin"
+
+
+msgid "Polish Zloty"
+msgstr "Zloty polonais"
+
+
+msgid "Romanian (New) Leu"
+msgstr "Romanian (nouveau) leu"
+
+
+msgid "Russian Ruble"
+msgstr "Rouble russe"
+
+
+msgid "Swedish Krona"
+msgstr "Couronne suédoise"
+
+
+msgid "Singapore Dollar"
+msgstr "Dollar singapour"
+
+
+msgid "Thai Baht"
+msgstr "Baht thaïlandais"
+
+
+msgid "Turkish Lira"
+msgstr "Lire turque"
+
+
+msgid "United States Dollar"
+msgstr "Dollar américain"
+
+
+msgid "South African Rand"
+msgstr "Rand sud-africain"
+
+
+msgid "Privacy Policy"
+msgstr "Politique de confidentialité"
+
+
+msgid "views"
+msgstr "vues"
+
+
+msgid "Modified date:"
+msgstr "Date modifiée:"
+
+
+msgid "Please enter your name here"
+msgstr "S'il vous plaît entrez votre nom ici"
+
+
+msgid "Please enter your email address here"
+msgstr "Veuillez entrer votre adresse email ici"
+
+
+msgid "You have entered an incorrect email address!"
+msgstr "Vous avez entré une adresse email incorrecte!"
+
+
+msgid "Please enter your comment!"
+msgstr "S'il vous plaît entrez votre commentaire!"
+
+
+msgid "Logged in as"
+msgstr "Connecté en tant que"
+
+
+msgid "Log out?"
+msgstr "Connectez - Out?"
+
+
+msgid "Logged in as %s. Edit your profile."
+msgstr "Connecté en tant que% s. Modifier votre profil."
+
+
+msgid "Edit"
+msgstr "Modifier"
+
+
+msgid "Login"
+msgstr "S'identifier"
+
+
+msgid "Send My Password"
+msgstr "Envoyer mon mot de passe"
+
+
+msgid "Create an account"
+msgstr "Créer un compte"
+
+
+msgid "Welcome! Register for an account"
+msgstr "Bienvenue! s'inscrire pour un compte"
+
+
+msgid "About me"
+msgstr "À propos de moi"
+
+
+msgid "Save my name, email, and website in this browser for the next time I comment."
+msgstr "Enregistrer mon nom, email et site web dans ce navigateur pour la prochaine fois que je commenterai."
+
+
+msgid "Orders"
+msgstr "Ordres"
+
+
+msgid "Addresses"
+msgstr "Adresses"
+
+
+msgid "Account settings"
+msgstr "Paramètres du compte"
+
+
+msgid "Hello"
+msgstr "Bonjour"
+
+
+msgid "No products in the cart."
+msgstr "Aucun produit dans le chariot."
+
+
+msgid "Product categories"
+msgstr "Catégories de produits"
+
+
+msgid "Product tags"
+msgstr "étiquettes de produits"
+
+
+msgid "Success"
+msgstr "Succès"
+
+
+msgid "Acknowledgment is required!"
+msgstr "L'accusé de réception est requis !"
+
+
+msgid "Please fill in a valid email."
+msgstr "S'il vous plaît remplir un email valide."
+
+
+msgid "Please fill in an email address."
+msgstr "S'il vous plaît remplir une adresse e-mail."
+
+
+msgid "Get into your account."
+msgstr "Entrer dans votre compte."
+
+
+msgid "My subscription account"
+msgstr "Mon compte d'abonnement"
+
+
+msgid "Account details"
+msgstr "Détails du compte"
+
+
+msgid "Subscriptions"
+msgstr "Abonnements"
+
+
+msgid "My woo account"
+msgstr "Mon compte woo"
+
+
+msgid "Log out"
+msgstr "Se déconnecter"
+
+
+msgid "Email address"
+msgstr "Adresse e-mail"
+
+
+msgid "Username"
+msgstr "Nom d'utilisateur"
+
+
+msgid "Password"
+msgstr "Le mot de passe"
+
+
+msgid "must contain at least one lower case (a..z)"
+msgstr "doit contenir au moins une minuscule (a..z)"
+
+
+msgid "must contain at least one upper case (A..Z)"
+msgstr "doit contenir au moins une majuscule (a..z)"
+
+
+msgid "must contain at least 6 characters in length"
+msgstr "doit contenir au moins 6 caractères"
+
+
+msgid "Repeat password"
+msgstr "Répéter le mot de passe"
+
+
+msgid "Already have an account?"
+msgstr "Vous avez déjà un compte?"
+
+
+msgid "Recover password"
+msgstr "Récupérer mot de passe"
+
+
+msgid "Username or Email address"
+msgstr "Nom d'utilisateur ou adresse e-mail"
+
+
+msgid "Forgot password?"
+msgstr "Mot de passe oublié?"
+
+
+msgid "Don't have an account?"
+msgstr "Vous n'avez pas de compte ?"
+
+
+msgid "Dashboard"
+msgstr "Tableau de bord"
+
+
+msgid "Welcome to your account!"
+msgstr "Bienvenue sur votre compte !"
+
+
+msgid "Hello %1$s (not %2$s? %3$s)! From your account dashboard you can view your subscriptions and manage your account details."
+msgstr "Bonjour %1$s (pas %2$s ? %3$s) ! depuis le tableau de bord de votre compte, vous pouvez consulter vos abonnements et gérer les détails de votre compte."
+
+
+msgid "Lost Password"
+msgstr "Mot de passe perdu"
+
+
+msgid "Manage your account details."
+msgstr "Gérer les détails de votre compte."
+
+
+msgid "First name"
+msgstr "Prénom"
+
+
+msgid "Last name"
+msgstr "Nom de famille"
+
+
+msgid "Display name"
+msgstr "Afficher un nom"
+
+
+msgid "Current password"
+msgstr "Mot de passe actuel"
+
+
+msgid "(leave blank to leave unchanged)"
+msgstr "(laisser vide pour ne pas changer)"
+
+
+msgid "New password"
+msgstr "Nouveau mot de passe"
+
+
+msgid "Confirm new password"
+msgstr "Confirmer le nouveau mot de passe"
+
+
+msgid "Save changes"
+msgstr "Sauvegarder les modifications"
+
+
+msgid "All your subscriptions."
+msgstr "Tous vos abonnements."
+
+
+msgid "Plan"
+msgstr "Planifier"
+
+
+msgid "Payment type"
+msgstr "Type de paiement"
+
+
+msgid "Status"
+msgstr "Statut"
+
+
+msgid "Months"
+msgstr "Mois"
+
+
+msgid "Start date"
+msgstr "Date de début"
+
+
+msgid "End date"
+msgstr "Date de fin"
+
+
+msgid "missing plan"
+msgstr "plan manquant"
+
+
+msgid "Free"
+msgstr "Gratuit"
+
+
+msgid "Active"
+msgstr "Actif"
+
+
+msgid "Trial"
+msgstr "Essai"
+
+
+msgid "Blocked"
+msgstr "Bloqué"
+
+
+msgid "Closed"
+msgstr "Fermé"
+
+
+msgid "Not paid"
+msgstr "Impayé"
+
+
+msgid "Awaiting payment"
+msgstr "En attente de paiement"
+
+
+msgid "Subscription info"
+msgstr "Informations d'abonnement"
+
+
+msgid "ID"
+msgstr "IDENTIFIANT"
+
+
+msgid "Name"
+msgstr "Nom"
+
+
+msgid "Company name"
+msgstr "Nom de la compagnie"
+
+
+msgid "VAT"
+msgstr "T.V.A"
+
+
+msgid "Address"
+msgstr "Adresse"
+
+
+msgid "City"
+msgstr "Ville"
+
+
+msgid "Country/State"
+msgstr "Etat"
+
+
+msgid "Email"
+msgstr "E-mail"
+
+
+msgid "Postal code"
+msgstr "Code postal"
+
+
+msgid "Direct bank transfer details"
+msgstr "Coordonnées de virement bancaire direct"
+
+
+msgid "Account name"
+msgstr "Nom du compte"
+
+
+msgid "Account number"
+msgstr "Numéro de compte"
+
+
+msgid "Bank name"
+msgstr "Nom de banque"
+
+
+msgid "Routing number"
+msgstr "Numéro de routage"
+
+
+msgid "IBAN"
+msgstr "IBAN"
+
+
+msgid "Bic/Swift"
+msgstr "Bic/rapide"
+
+
+msgid "Instructions"
+msgstr "Instructions"
+
+
+msgid "No subscription created."
+msgstr "Aucun abonnement créé."
+
+
+msgid "Choose plan"
+msgstr "Choisir le forfait"
+
+
+msgid "Payment methods"
+msgstr "Méthodes de payement"
+
+
+msgid "Total"
+msgstr "Le total"
+
+
+msgid "Period"
+msgstr "Point final"
+
+
+msgid "Subscription summary"
+msgstr "Résumé de l'abonnement"
+
+
+msgid "Phone"
+msgstr "Téléphoner"
+
+
+msgid "Postcode"
+msgstr "Code postal"
+
+
+msgid "County"
+msgstr "Comté"
+
+
+msgid "Town/City"
+msgstr "Ville/ville"
+
+
+msgid "Street address"
+msgstr "Adresse de la rue"
+
+
+msgid "Country/Region"
+msgstr "Pays/région"
+
+
+msgid "VAT Number"
+msgstr "Numéro de TVA"
+
+
+msgid "(optional)"
+msgstr "(optionnel)"
+
+
+msgid "Billing details"
+msgstr "Détails de la facturation"
+
+
+msgid "User information"
+msgstr "Informations de l'utilisateur"
+
+
+msgid "It seems that no available payment methods have been configured."
+msgstr "Il semble qu'aucun mode de paiement disponible n'ait été configuré."
+
+
+msgid "Thank you! We are delighted to see you here. Your subscription will be activated soon!"
+msgstr "Je vous remercie! nous sommes ravis de vous voir ici. votre abonnement sera bientôt activé !"
+
+
+msgid "Our bank details"
+msgstr "Nos coordonnées bancaires"
+
+
+msgid "Your subscription details"
+msgstr "Les détails de votre abonnement"
+
+
+msgid "View subscription"
+msgstr "Voir l'abonnement"
+
+
+msgid "You have not selected a valid subscription plan."
+msgstr "Vous n'avez pas sélectionné de formule d'abonnement valide."
+
+
+msgid "Field empty"
+msgstr "Champ vide"
+
+
+msgid "Empty first name"
+msgstr "Prénom vide"
+
+
+msgid "Empty last name"
+msgstr "Nom de famille vide"
+
+
+msgid "Empty country"
+msgstr "Pays vide"
+
+
+msgid "Empty address"
+msgstr "Adresse vide"
+
+
+msgid "Empty city"
+msgstr "Ville vide"
+
+
+msgid "Empty county"
+msgstr "Comté vide"
+
+
+msgid "Empty postcode"
+msgstr "Code postal vide"
+
+
+msgid "Empty phone"
+msgstr "Téléphone vide"
+
+
+msgid "Empty email"
+msgstr "E-mail vide"
+
+
+msgid "Email or username empty!"
+msgstr "Email ou nom d'utilisateur vide !"
+
+
+msgid "Pass empty!"
+msgstr "Passe à vide !"
+
+
+msgid "Username incorrect!"
+msgstr "Nom d'utilisateur incorrect !"
+
+
+msgid "Invalid Pass Pattern!"
+msgstr "Modèle de passe invalide !"
+
+
+msgid "Please activate your account by following the link sent to your email address."
+msgstr "Veuillez activer votre compte en suivant le lien envoyé à votre adresse e-mail."
+
+
+msgid "Resend activation link"
+msgstr "Renvoyer le lien d'activation"
+
+
+msgid "In order to have access to this section, you have to activate your account."
+msgstr "Pour avoir accès à cette section, vous devez activer votre compte."
+
+
+msgid "Email empty!"
+msgstr "Email vide !"
+
+
+msgid "Username empty!"
+msgstr "Nom d'utilisateur vide !"
+
+
+msgid "Pass pattern incorrect!"
+msgstr "Modèle de réussite incorrect !"
+
+
+msgid "Retyped pass empty!"
+msgstr "Passe retapé vide !"
+
+
+msgid "Retyped pass exactly!"
+msgstr "Passe retapé exactement !"
+
+
+msgid "User already exists!"
+msgstr "L'utilisateur existe déjà!"
+
+
+msgid "Email already exists!"
+msgstr "L'email existe déjà!"
+
+
+msgid "Your account could not be created."
+msgstr "Votre compte n'a pas pu être créé."
+
+
+msgid "Please check your email (inbox or spam folder) to validate your account."
+msgstr "Veuillez vérifier votre email (boîte de réception ou dossier spam) pour valider votre compte."
+
+
+msgid "User empty!"
+msgstr "Utilisateur vide !"
+
+
+msgid "User does not exists!"
+msgstr "L'utilisateur n'existe pas !"
+
+
+msgid "New activation link was generated. Please check your email (inbox or spam folder) to validate your account."
+msgstr "Un nouveau lien d'activation a été généré. veuillez vérifier votre email (boîte de réception ou dossier spam) pour valider votre compte."
+
+
+msgid "CAPTCHA verification failed!"
+msgstr "La vérification du captcha a échoué !"
+
+
+msgid "CAPTCHA user score failed. Please contact us!"
+msgstr "Le score de l'utilisateur captcha a échoué. Contactez nous s'il vous plait!"
+
+
+msgid "Loading"
+msgstr "Chargement en cours"
+
+
+msgid "Here are the results for the search:"
+msgstr "Voici les résultats de la recherche :"
+
+
+msgid "Price"
+msgstr "Le prix"
+
+
+msgid "EXCLUSIVE"
+msgstr "EXCLUSIF"
+
+
+msgid "Tel:"
+msgstr "Tél :"
+
+
+msgid "Share"
+msgstr "Partager"
+
+
+msgid "Print"
+msgstr "Imprimer"
+
+
+msgid "At"
+msgstr "à"
+
+
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+
+msgid "My account"
+msgstr "Mon compte"
+
+
+msgid "Payment method"
+msgstr "Mode de paiement"
+
